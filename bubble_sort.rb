@@ -9,3 +9,11 @@ def bubble_sort(array)
     end
   end
 end
+
+def compare(array, index)
+  array[index] <=> array[index + 1]
+end
+
+def swap(array, index)
+  array[index], array[index + 1] = array[index + 1], array[index]
+end
