@@ -3,12 +3,12 @@
 def bubble_sort(array)
   return if array.size <= 1
 
-  sorted = true
+  sorted = false
   array.length.times do
-    break if sorted == false
+    break if sorted == true
 
     array.each_index do |index|
-      swap(array, index) && sorted = true if compare(array, index) == 1
+      swap(array, index) && sorted = false if compare(array, index) == 1
     end
   end
 end
