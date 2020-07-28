@@ -21,8 +21,8 @@ def swap(array, index)
   array[index], array[index + 1] = array[index + 1], array[index]
 end
 
-array = [99, 5, 9, 6, 2, 3, 1, 12, 44, -4, 55, 3]
+number_array = [99, 5, 9, 6, 2, 3, 1, 12, 44, -4, 55, 3]
 
-bubble_sort(array)
+bubble_sort(number_array)
 
-p array
+p number_array
