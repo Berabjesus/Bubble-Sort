@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 def bubble_sort(array)
   return if array.size <= 1
 
@@ -7,6 +5,7 @@ def bubble_sort(array)
   array.length.times do
     break if sorted == true
 
+    sorted = true
     array.each_index do |index|
       swap(array, index) && sorted = false if compare(array, index) == 1
     end
