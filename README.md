@@ -1,9 +1,10 @@
 # Bubble Sort with Ruby
 The aim of this first Ruby project is for us to start learning about the Ruby syntax.
   1. The first method sort an array of numbers in ascending order.
-  2. The second method accepts a block and sort it by length using yield.
+  2. The second method accepts a block and sort it by string length using yield.
 
-![screenshot](media/screenshot.JPG)
+![screenshot](assets/screen.JPG)
+![screenshot](assets/screen1.JPG)
 
 ## Built With
 
