@@ -19,7 +19,7 @@ The aim of this first Ruby project is for us to start learning about the Ruby sy
 ### Setup
 
 - Download or clone the repository
-- Run the code in your local ide
+- Run a CLI and run `ruby bubble_sort.rb` on your local machine
 - Additionally, You can go to https://repl.it and select language ruby, copy paste the code, and run it.
 
 ## Author
