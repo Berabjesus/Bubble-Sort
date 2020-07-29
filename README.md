@@ -26,7 +26,7 @@ The aim of this first Ruby project is for us to start learning about the Ruby sy
 
 👤 **Adan Fernandez Bonilla**
 
-- Github: @balerum03
+- Github: [@balerum03](https://github.com/balerum03)
 - Twitter: @balerum03
 - Linkedin: https://www.linkedin.com/in/adan-fernandez-bonilla-4560831a5
 
