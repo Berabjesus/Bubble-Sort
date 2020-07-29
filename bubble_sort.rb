@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 def bubble_sort(array)
   return if array.size <= 1
 
@@ -29,6 +27,7 @@ p number_array
 
 def bubble_sort_by(array)
   return if array.size <= 1
+  
   sorted = false
   while sorted == false
     sorted = true
