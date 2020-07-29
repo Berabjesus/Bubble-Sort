@@ -27,7 +27,7 @@ p number_array
 
 def bubble_sort_by(array)
   return if array.size <= 1
-  
+
   sorted = false
   while sorted == false
     sorted = true
